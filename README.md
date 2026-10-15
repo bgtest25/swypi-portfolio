@@ -1,6 +1,6 @@
 # Portfolio Showcase
 
-This folder contains public-safe materials for showcasing my work to recruiters and hiring managers.
+This folder contains public-safe materials for showcasing my work.
 
 ## Contents
 
